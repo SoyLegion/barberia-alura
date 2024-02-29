@@ -1,0 +1,64 @@
+
+.Titulo-principal{
+    padding-left: 30px;
+}
+
+#Barberia{
+    width: 1332px; 
+    height: 400px; 
+    
+}
+
+.principal{
+    background: #cccccc;
+    padding: 20px;
+}
+.Titulo-centralizado{
+    text-align: center;
+    
+}
+
+p{
+    text-align: center;
+    background: #cccccc;
+}
+
+em strong{
+    color: red 
+}
+
+#Mision{font-size: 20px;
+}
+
+.Diferenciales{
+    background: #FFFFFF;
+    padding: 30px;
+    
+}
+
+h3{
+    text-align: center;
+}
+
+.items{
+    font-style: italic;
+    font-size: 20px;
+    font-weight: bold;
+   
+}
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+ 
+}
+
+.ImagenDiferenciales{
+    width: 40%;
+    border-radius: 8px;
+   
+}
+
+
